@@ -7,9 +7,8 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "ipfs://QmZgpZq1HkVS7YCThNJeR51KFVo5AL8P3ThA2y9wcw53p9",
   "keywords": [
-    "GoSwap",
+    "ObsSwap",
     "default"
   ],
   "tokens": [
@@ -20,6 +19,22 @@
       "decimals": 18,
       "chainId": 233,
       "logoURI": "https://raw.githubusercontent.com/verse-extend/obsswap-tokenlist/main/assets/INITEST/0x9e66cd15226464EFBa8b7B2847A0880AFC236c5C.png"
+    },
+    {
+      "name": "USDT",
+      "address": "0x36AA81a7aEeAB8f09e154d3E779Bb81beA54501A",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 233,
+      "logoURI": "https://raw.githubusercontent.com/verse-extend/obsswap-tokenlist/main/assets/INITEST/0x36AA81a7aEeAB8f09e154d3E779Bb81beA54501A.png"
+    },
+    {
+      "name": "TOKEN",
+      "address": "0xcF259Bca0315C6D32e877793B6a10e97e7647FdE",
+      "symbol": "TOKEN",
+      "decimals": 18,
+      "chainId": 233,
+      "logoURI": "https://raw.githubusercontent.com/verse-extend/obsswap-tokenlist/main/assets/INITEST/0xcF259Bca0315C6D32e877793B6a10e97e7647FdE.png"
     }
   ]
 }
