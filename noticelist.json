@@ -1,0 +1,18 @@
+{
+    "name": "Obsswap Notice List",
+    "timestamp": "2024-03-27T22:55:13.889Z",
+    "notices": [
+      {
+        "en":{
+            "title": "Obsswap Notice Test",
+            "content": "Obsswap Notice Test Obsswap Notice Test Obsswap Notice Test Obsswap Notice Test",
+            "timestamp": "2024-03-27T22:55:13.889Z"
+          },
+        "ch":{
+          "title": "Obsswap 公告测试 ",
+          "content": "Obsswap 公告测试 Obsswap 公告测试 Obsswap 公告测试 Obsswap 公告测试",
+          "timestamp": "2024-03-27T22:55:13.889Z"
+        }
+      }
+    ]
+  }
