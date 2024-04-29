@@ -13,6 +13,14 @@
   ],
   "tokens": [
     {
+      "name": "Initverse",
+      "address": "INI",
+      "symbol": "INI",
+      "decimals": 18,
+      "chainId": 233,
+      "logoURI": "https://raw.githubusercontent.com/verse-extend/obsswap-tokenlist/main/assets/INITEST/INI.png"
+    },
+    {
       "name": "Wrapped INI",
       "address": "0x9e66cd15226464EFBa8b7B2847A0880AFC236c5C",
       "symbol": "WINI",
