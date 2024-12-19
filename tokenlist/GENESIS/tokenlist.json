@@ -1,0 +1,32 @@
+{
+  "name": "ObsSwap List",
+  "timestamp": "2024-03-4T22:55:13.889Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "keywords": [
+    "ObsSwap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "Wrapped INI",
+      "address": "0xfbECae21C91446f9c7b87E4e5869926998f99ffe",
+      "symbol": "WINI",
+      "decimals": 18,
+      "chainId": 233,
+      "logoURI": "https://raw.githubusercontent.com/verse-extend/obsswap-tokenlist/main/assets/GENESIS/0xfbECae21C91446f9c7b87E4e5869926998f99ffe.png"
+    },
+    {
+      "name": "USDT",
+      "address": "0xcF259Bca0315C6D32e877793B6a10e97e7647FdE",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 233,
+      "logoURI": "https://raw.githubusercontent.com/verse-extend/obsswap-tokenlist/main/assets/GENESIS/0xcF259Bca0315C6D32e877793B6a10e97e7647FdE.png"
+    }
+  ]
+}
