@@ -17,7 +17,7 @@
       "address": "0xfbECae21C91446f9c7b87E4e5869926998f99ffe",
       "symbol": "WINI",
       "decimals": 18,
-      "chainId": 233,
+      "chainId": 7234,
       "logoURI": "https://raw.githubusercontent.com/verse-extend/obsswap-tokenlist/main/assets/7234/0xfbECae21C91446f9c7b87E4e5869926998f99ffe.png"
     },
     {
@@ -25,7 +25,7 @@
       "address": "0xcF259Bca0315C6D32e877793B6a10e97e7647FdE",
       "symbol": "USDT",
       "decimals": 18,
-      "chainId": 233,
+      "chainId": 7234,
       "logoURI": "https://raw.githubusercontent.com/verse-extend/obsswap-tokenlist/main/assets/7234/0xcF259Bca0315C6D32e877793B6a10e97e7647FdE.png"
     }
   ]
